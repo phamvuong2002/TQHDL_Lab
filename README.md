@@ -1,3 +1,3 @@
-### Group 6
+# Group 6
 
-# This is group 6 lab project.
+### This is group 6 lab project.
